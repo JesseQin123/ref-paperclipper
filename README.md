@@ -1,3 +1,9 @@
+> **Note from Jesse Qin:** This is a personal fork I keep for my own reference/use — I have not made any code contributions here. Full credit and all engineering work belongs to the original project below.
+>
+> **Original project:** https://github.com/Yesterday-AI/paperclipper
+>
+> ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yesterday-AI/paperclip-plugin-company-wizard/main/public/favicon.svg" alt="Company Wizard" width="48" height="48">
   <h1 align="center">Company Wizard</h1>
